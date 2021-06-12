@@ -1,15 +1,14 @@
 # algorithmeLuhn
 Ce programme implémente l'algorithme de Luhn, qui permet de vérifier la validité d'un nombre. Cet algorithme est notamment utilisé pour les numéros de cartes bancaires, les numéros IMEI utilisés pour identifier les terminaux de téléphonie mobile ou encore les numéros SIRET qui permettent l'identification d'une entreprise française.
 
-## Prérequis
-Ce programme est écrit via le langage [Dart](https://www.dartlang.org/). Veuillez installer les outils de développement nécessaires afin de tester celle-ci ou bien utiliser directement [Dartpad](https://dartpad.dartlang.org/). Pour plus d'informations, vous pouvez aller sur le site officiel du langage Dart. Ce programme est également compatible avec [Flutter](https://flutter.dev/).
+## Exemple
+Un exemple complet d'utilisation est disponible sur [ma page personnelle GitHub](https://baptistehugot.github.io/algorithmeLuhn/web).
 
-## Exemples
-Un exemple d'utilisation est disponible utilisant la bibliothèque Flutter.
-
-## Ecrit et compilé avec
+## Ecrit avec
 * [Dart](https://www.dartlang.org/guides/language) - Le langage de programmation utilisé
-* [Flutter](https://flutter.dev/docs) - La bibliothèque utilisée pour l'exemple d'utilisation du programme
+
+## Bibliothèques utilisées
+* [Flutter](https://flutter.dev/docs) - La bibliothèque utilisée pour l'affichage graphique
 
 ## Versions
 [SemVer](http://semver.org/) est utilisé pour la gestion des versions. Pour connaître les versions disponibles, veuillez vous référer aux [étiquettes de ce dépôt](https://github.com/BaptisteHugot/algorithmeLuhn/releases/).
@@ -19,3 +18,9 @@ Un exemple d'utilisation est disponible utilisant la bibliothèque Flutter.
 
 ## Licence
 Ce projet est disponible sous licence MIT. Veuillez lire le fichier [LICENSE.md](LICENSE.md) pour plus de détails.
+
+## Règles de conduite
+Pour connaître l'ensemble des règles de conduite à respecter sur ce dépôt, veuillez lire le fichier [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
+
+## Contribution au projet
+Si vous souhaitez contribuer au projet, que ce soit en corrigeant des bogues ou en proposant de nouvelles fonctionnalités, veuillez lire le fichier [CONTRIBUTING.md](CONTRIBUTING.md) pour plus de détails.
